@@ -12,9 +12,6 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-  }
-
   #social .button-icon {
     filter: invert(1) brightness(2);
   }
